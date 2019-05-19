@@ -1,16 +1,16 @@
-Siddharth Vadgama
+# Stucture
 
 This program uses dynamic memory allocation and structure to create a simple database and do some simple actions.
 
-To run the program use following code:
+# Running Instructions
 
 gcc problem.c
 ./a.out
 
-sample input:
+# sample input:
 
 5
-
+# sample output:
 siddharth vadgama 89.2 76013
 parth barot 83.2 56411
 rahul jani 34.5 32455
